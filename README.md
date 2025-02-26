@@ -83,7 +83,7 @@ I'm currently exploring:
 
 - *TypeScript:* Enhancing my JavaScript applications with static typing.
 
-
+<hr>
 Feel free to reach out:
 
 - *LinkedIn:* [Balaji](https://www.linkedin.com/in/balaji-m-131573353/)
