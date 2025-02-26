@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif"  />
+<img align="right" height="140" src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif"  />
 
 ###
 
