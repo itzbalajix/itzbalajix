@@ -56,7 +56,8 @@
 </div>
 
 <br>
-### 🚀 Projects
+<hr>
+ 🚀 Projects
 
 Here are some of the projects I've worked on:
 
@@ -89,4 +90,8 @@ Feel free to reach out:
 - *LinkedIn:* [Balaji](https://www.linkedin.com/in/balaji-m-131573353/)
 - *GitHub:* [itzbalajix](https://github.com/itzbalajix/)
 - *E-Mail:* [balajimuralidharan200430@gmail,com](https://mail.google.com/mail/u/1/)
+- *Instagram:*[_.balaji.__](https://www.instagram.com/_.balaji.__/) <div align="left">
+  <a href="https://www.instagram.com/_.balaji.__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 
