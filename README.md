@@ -5,11 +5,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Node JS,MongoDB,React<br>🎯 Goals: Chilled Full-Stack Developer<br>🎲 Fun fact:I have a knack of learning and exploring</p>
-
-###
-
 <img align="right" height="140" src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif"  />
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Node JS,MongoDB,React<br>🎯 Goals: Chilled Full-Stack Developer<br>🎲 Fun fact:I have a knack of learning and exploring</p>
 
 ###
 
