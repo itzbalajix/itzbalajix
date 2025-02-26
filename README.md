@@ -1,6 +1,18 @@
 <h2 align="left">Hi 👋! My name is Balaji and I'm a Full-Stack Developer from India</h2>
 
 ###
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Node JS,MongoDB,React<br>🎯 Goals: Chilled Full-Stack Developer<br>🎲 Fun fact:I have a knack of learning and exploring</p>
+
+###
+
+<h2 align="left">I code with C++, HTML, CSS, JavaScript</h2>
+
+###
+
 ###
 
 <div align="center">
