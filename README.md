@@ -55,4 +55,37 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+### 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+1. *Netflix Clone*
+   - *Description:* Developed a responsive clone of Netflix's landing page to enhance my skills in HTML and CSS. This project focuses on replicating the visual design and layout of Netflix.
+   - *Tech Stack:* HTML, CSS
+   - *Repository:* [Netflix Clone](https://github.com/itzbalajix/netflix-clone)
+
+2. *Myntra Clone*
+   - *Description:* Created a static replica of Myntra's homepage using HTML and CSS. This project showcases my ability to mimic complex layouts and design elements of modern e-commerce websites.
+   - *Tech Stack:* HTML, CSS
+   - *Repository:* [Myntra Clone](https://github.com/itzbalajix/myntra-clone)
+
+3. *Paytm Clone*
+   - *Description:* Built a static version of Paytm's homepage to practice and demonstrate proficiency in HTML and CSS. The project emphasizes the use of responsive design techniques to ensure compatibility across various devices.
+   - *Tech Stack:* HTML, CSS
+   - *Repository:* [Paytm Clone](https://github.com/itzbalajix/paytm-clone)
+
+---
+
+### 🌱 Currently Learning
+
+I'm currently exploring:
+
+- *TypeScript:* Enhancing my JavaScript applications with static typing.
+
+
+Feel free to reach out:
+
+- *LinkedIn:* [Balaji](https://www.linkedin.com/in/balaji-m-131573353/)
+- *GitHub:* [itzbalajix](https://github.com/itzbalajix/)
+- *E-Mail:* [balajimuralidharan200430@gmail,com](https://mail.google.com/mail/u/1/)
 
