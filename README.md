@@ -9,6 +9,12 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif"  />
+
+###
+
+###
+
 <h2 align="left">I code with C++, HTML, CSS, JavaScript</h2>
 
 ###
@@ -38,11 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/_.balaji.__/" target="_blank">
