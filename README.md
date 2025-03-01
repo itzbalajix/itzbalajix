@@ -70,7 +70,7 @@ Here are some of the projects I've worked on:
 
 I'm currently exploring:
 
-- *TypeScript:* Enhancing my JavaScript applications with static typing.
+- *JavaScript:* Enhancing my JavaScript applications with static typing.
 
 <hr>
 Feel free to reach out:
