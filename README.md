@@ -48,16 +48,38 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzbalajix&show_icons=true&theme=dracula" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzbalajix&layout=compact&theme=dracula" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=itzbalajix&show_icons=true&theme=dracula&hide_border=true" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzbalajix&layout=compact&theme=dracula&hide_border=true" 
+    height="160"
+  />
+
 </div>
 
 ---
 
 <h2 align="left">🚀 Projects</h2>
 
-### 1. Simple Calculator
+### 1. Rock Paper Scissors Game
+- Description: A modern and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript with glassmorphism UI and smooth animations.
+- Features:
+  - Keyboard shortcuts support
+  - Auto Play mode
+  - Score persistence using localStorage
+  - Responsive design
+  - Lighthouse Performance Score: 100
+- Tech Stack: HTML, CSS, JavaScript
+- Live Demo: https://rock-paper-scissors-game-nine-iota.vercel.app/
+- Repository: https://github.com/itzbalajix/Rock-Paper-Scissors-Game
+
+---
+
+### 2. Simple Calculator
 - Description: A beginner-friendly calculator built using HTML, CSS, and JavaScript with localStorage support.
 - Features:
   - Basic arithmetic operations
@@ -68,24 +90,24 @@
 
 ---
 
-### 2. Netflix Clone
+### 3. Netflix Clone
 - Description: Developed a responsive clone of Netflix's landing page to improve frontend development skills.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/netflix-clone
 
 ---
 
-### 3. Myntra Clone
+### 4. Myntra Clone
 - Description: Created a static replica of Myntra's homepage using HTML and CSS.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/myntra-clone
 
 ---
 
-### 4. Paytm Clone
+### 5. Paytm Clone
 - Description: Built a static version of Paytm's homepage with responsive design.
 - Tech Stack: HTML, CSS
-- Repository: https://github.com/itzbalajix/paytm-clone
+- Repository: https://github.com/itzbalajix/paytm-clonee
 
 ---
 
