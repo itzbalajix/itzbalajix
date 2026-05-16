@@ -9,7 +9,7 @@
 <p align="left">
 ✨ Building projects and learning web development since 2024 <br>
 📚 Currently learning React, Node.js, Express.js, and MongoDB <br>
-🎯 Goal: Become a skilled Full-Stack Developer <br>
+🎯 Goal: Build scalable and user-friendly full-stack web applications <br>
 🚀 Passionate about building projects and improving problem-solving skills <br>
 🎲 Fun fact: I enjoy exploring new technologies and debugging code
 </p>
@@ -19,28 +19,30 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
+
 </div>
 
 ---
@@ -49,7 +51,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzbalajix&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=itzbalajix&show_icons=true&theme=dracula&hide_border=true" height="160" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzbalajix&theme=dracula&hide_border=true" height="160" />
 
 </div>
 
@@ -57,7 +63,22 @@
 
 <h2 align="left">🚀 Projects</h2>
 
-### 1. Rock Paper Scissors Game
+### 1. 🌤 WeatherNow — Weather App
+- Description: A modern weather application built using HTML, CSS, and JavaScript with real-time weather API integration.
+- Features:
+  - Real-time weather search
+  - API integration using fetch()
+  - Dynamic weather icons
+  - Loading and error handling
+  - Responsive modern UI
+  - Enter key support
+- Tech Stack: HTML, CSS, JavaScript, OpenWeatherMap API, Day.js
+- Live Demo: https://your-vercel-link.vercel.app/
+- Repository: https://github.com/itzbalajix/weather-app
+
+---
+
+### 2. ✊ Rock Paper Scissors Game
 - Description: A modern and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript with glassmorphism UI and smooth animations.
 - Features:
   - Keyboard shortcuts support
@@ -71,7 +92,19 @@
 
 ---
 
-### 2. Simple Calculator
+### 3. ✅ Todo App
+- Description: A responsive Todo App built using HTML, CSS, and JavaScript with localStorage support.
+- Features:
+  - Add and delete tasks
+  - localStorage persistence
+  - Responsive design
+  - Dynamic DOM updates
+- Tech Stack: HTML, CSS, JavaScript
+- Repository: https://github.com/itzbalajix/todo-app
+
+---
+
+### 4. 🧮 Simple Calculator
 - Description: A beginner-friendly calculator built using HTML, CSS, and JavaScript with localStorage support.
 - Features:
   - Basic arithmetic operations
@@ -82,21 +115,21 @@
 
 ---
 
-### 3. Netflix Clone
+### 5. 🎬 Netflix Clone
 - Description: Developed a responsive clone of Netflix's landing page to improve frontend development skills.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/netflix-clone
 
 ---
 
-### 4. Myntra Clone
+### 6. 🛍️ Myntra Clone
 - Description: Created a static replica of Myntra's homepage using HTML and CSS.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/myntra-clone
 
 ---
 
-### 5. Paytm Clone
+### 7. 💳 Paytm Clone
 - Description: Built a static version of Paytm's homepage with responsive design.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/paytm-clonee
@@ -105,7 +138,7 @@
 
 <h2 align="left">🌱 Currently Learning</h2>
 
-- JavaScript
+- Advanced JavaScript
 - React
 - Node.js
 - Express.js
@@ -121,15 +154,31 @@
 - Instagram: https://www.instagram.com/_.balaji.__/
 
 <div align="left">
-  <a href="https://www.instagram.com/_.balaji.__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/balaji-m-131573353/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<a href="https://www.instagram.com/_.balaji.__/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+</a>
 
-  <a href="https://github.com/itzbalajix" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<a href="https://www.linkedin.com/in/balaji-m-131573353/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
+<a href="https://github.com/itzbalajix" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
+</div>
+
+---
+
+<h2 align="left">💡 Quote I Follow</h2>
+
+> “Consistency beats intensity. Small progress every day leads to big results.”
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
 </div>
