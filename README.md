@@ -8,10 +8,11 @@
 
 <p align="left">
 ✨ Building projects and learning web development since 2024 <br>
-📚 Currently learning React, Node.js, Express.js, and MongoDB <br>
-🎯 Goal: Build scalable and user-friendly full-stack web applications <br>
-🚀 Passionate about building projects and improving problem-solving skills <br>
-🎲 Fun fact: I enjoy exploring new technologies and debugging code
+📚 Currently learning React, Node.js, Express.js, MongoDB, and Backend Development <br>
+🎯 Goal: Become a skilled Full-Stack Developer and build scalable real-world applications <br>
+🚀 Passionate about creating responsive UI, solving problems, and continuously learning <br>
+💡 Interested in modern web technologies, clean UI design, and JavaScript development <br>
+🎲 Fun fact: I enjoy debugging code and turning ideas into projects
 </p>
 
 ---
@@ -38,10 +39,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
 <img width="12" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
+<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 
 </div>
 
@@ -57,13 +64,31 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzbalajix&theme=dracula&hide_border=true" height="160" />
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzbalajix&layout=compact&theme=dracula&hide_border=true" height="160" />
+
 </div>
 
 ---
 
-<h2 align="left">🚀 Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-### 1. 🌤 WeatherNow — Weather App
+### 💰 Ledger — Expense Tracker
+- Description: A modern expense tracker application built using HTML, CSS, and JavaScript with localStorage support.
+- Features:
+  - Add & delete transactions
+  - Real-time balance calculation
+  - Income & expense tracking
+  - Persistent data using localStorage
+  - Responsive modern UI
+  - Smooth animations and toast notifications
+- Tech Stack: HTML, CSS, JavaScript, Day.js
+- Repository: https://github.com/itzbalajix/expense-tracker
+
+---
+
+### 🌤 WeatherNow — Weather App
 - Description: A modern weather application built using HTML, CSS, and JavaScript with real-time weather API integration.
 - Features:
   - Real-time weather search
@@ -73,39 +98,38 @@
   - Responsive modern UI
   - Enter key support
 - Tech Stack: HTML, CSS, JavaScript, OpenWeatherMap API, Day.js
-- Live Demo: https://your-vercel-link.vercel.app/
 - Repository: https://github.com/itzbalajix/weather-app
 
 ---
 
-### 2. ✊ Rock Paper Scissors Game
-- Description: A modern and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript with glassmorphism UI and smooth animations.
+### ✊ Rock Paper Scissors Game
+- Description: A modern and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 - Features:
   - Keyboard shortcuts support
   - Auto Play mode
   - Score persistence using localStorage
   - Responsive design
-  - Lighthouse Performance Score: 100
+  - Smooth animations
 - Tech Stack: HTML, CSS, JavaScript
 - Live Demo: https://rock-paper-scissors-game-nine-iota.vercel.app/
 - Repository: https://github.com/itzbalajix/Rock-Paper-Scissors-Game
 
 ---
 
-### 3. ✅ Todo App
+### ✅ Todo App
 - Description: A responsive Todo App built using HTML, CSS, and JavaScript with localStorage support.
 - Features:
   - Add and delete tasks
   - localStorage persistence
-  - Responsive design
   - Dynamic DOM updates
+  - Responsive design
 - Tech Stack: HTML, CSS, JavaScript
 - Repository: https://github.com/itzbalajix/todo-app
 
 ---
 
-### 4. 🧮 Simple Calculator
-- Description: A beginner-friendly calculator built using HTML, CSS, and JavaScript with localStorage support.
+### 🧮 Simple Calculator
+- Description: A beginner-friendly calculator built using HTML, CSS, and JavaScript.
 - Features:
   - Basic arithmetic operations
   - Responsive UI
@@ -115,21 +139,21 @@
 
 ---
 
-### 5. 🎬 Netflix Clone
-- Description: Developed a responsive clone of Netflix's landing page to improve frontend development skills.
+### 🎬 Netflix Clone
+- Description: Developed a responsive Netflix landing page clone to improve frontend development skills.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/netflix-clone
 
 ---
 
-### 6. 🛍️ Myntra Clone
+### 🛍️ Myntra Clone
 - Description: Created a static replica of Myntra's homepage using HTML and CSS.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/myntra-clone
 
 ---
 
-### 7. 💳 Paytm Clone
+### 💳 Paytm Clone
 - Description: Built a static version of Paytm's homepage with responsive design.
 - Tech Stack: HTML, CSS
 - Repository: https://github.com/itzbalajix/paytm-clonee
@@ -139,10 +163,11 @@
 <h2 align="left">🌱 Currently Learning</h2>
 
 - Advanced JavaScript
-- React
+- React.js
 - Node.js
 - Express.js
 - MongoDB
+- REST APIs
 - Full-Stack Web Development
 
 ---
