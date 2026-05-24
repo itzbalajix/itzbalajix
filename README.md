@@ -132,7 +132,33 @@ HTML • CSS • JavaScript • OpenWeatherMap API
 🔗 Repository: https://github.com/itzbalajix/weather-app
 
 ---
+---
 
+## 📝 Notepad — Modern Notes App
+
+A beautifully designed notepad application with dark mode, pinned notes, search, tag filtering, and localStorage persistence.
+
+### Features
+
+* Create, edit, and delete notes
+* Pin important notes
+* Real-time search functionality
+* Tag filtering system
+* Dark / Light mode
+* Grid & List view toggle
+* Responsive modern UI
+* localStorage persistence
+* Keyboard shortcuts
+
+### Tech Stack
+
+HTML • Tailwind CSS • JavaScript • Day.js
+
+🔗 Live Demo: https://note-pad-app-beta.vercel.app/
+🔗 Repository: https://github.com/itzbalajix/notepad-app
+
+---
+---
 ## ✊ Rock Paper Scissors Game
 
 ### Features
