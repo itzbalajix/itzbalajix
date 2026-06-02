@@ -71,6 +71,31 @@
 
 # 🚀 Featured Projects
 
+---
+
+## 📋 Kanban Board
+
+A modern drag-and-drop Kanban Board application for managing tasks and workflows efficiently with an intuitive user interface.
+
+### Features
+
+* Create, edit, and delete tasks
+* Drag & drop task management
+* Multiple workflow columns (To Do, In Progress, Done)
+* Persistent storage using localStorage
+* Responsive modern UI
+* Real-time task updates
+* Clean and intuitive user experience
+
+### Tech Stack
+
+HTML • Tailwind CSS • JavaScript
+
+🔗 Live Demo: https://kanban-board-amber-seven.vercel.app/
+🔗 Repository: https://github.com/itzbalajix/Kanban-Board
+
+---
+
 ## 🎬 CineSearch — Movie Search App
 
 A cinematic movie search application powered by the OMDb API with favourites, pagination, dark mode, and responsive UI.
