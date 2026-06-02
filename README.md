@@ -95,7 +95,31 @@ HTML • Tailwind CSS • JavaScript
 🔗 Repository: https://github.com/itzbalajix/Kanban-Board
 
 ---
+---
 
+## 🔍 GitHub Profile Finder
+
+A modern and responsive GitHub Profile Finder that allows users to search GitHub profiles and explore repositories, followers, and account statistics through a clean, production-style interface.
+
+### Features
+
+* Search any GitHub username
+* View profile avatar, name, and bio
+* Display followers, following, and repository counts
+* Explore user repositories
+* Repository sorting options
+* Loading and error handling states
+* Responsive modern UI
+* GitHub API integration
+
+### Tech Stack
+
+HTML • Tailwind CSS • JavaScript • GitHub REST API
+
+🔗 Live Demo: https://your-vercel-link.vercel.app
+🔗 Repository: https://github.com/itzbalajix/Git-Hub-Profile-Finder
+
+---
 ## 🎬 CineSearch — Movie Search App
 
 A cinematic movie search application powered by the OMDb API with favourites, pagination, dark mode, and responsive UI.
@@ -183,25 +207,7 @@ HTML • Tailwind CSS • JavaScript • Day.js
 🔗 Repository: https://github.com/itzbalajix/notepad-app
 
 ---
----
-## ✊ Rock Paper Scissors Game
 
-### Features
-
-* Auto Play mode
-* Keyboard shortcuts
-* Score persistence
-* Responsive UI
-* Smooth animations
-
-### Tech Stack
-
-HTML • CSS • JavaScript
-
-🔗 Live Demo: https://rock-paper-scissors-game-nine-iota.vercel.app/
-🔗 Repository: https://github.com/itzbalajix/Rock-Paper-Scissors-Game
-
----
 
 # 🌱 Currently Learning
 
